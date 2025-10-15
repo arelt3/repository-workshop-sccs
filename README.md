@@ -3,3 +3,4 @@ My first repository, created for a SCCS workshop
 
 I will make edits as I go on
 alyssa: hi!
+Arel: Salut!
